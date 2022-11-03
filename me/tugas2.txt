@@ -1,0 +1,3 @@
+Mengapa index.html?
+
+index.html sudah menjadi budaya turun termurun dalam kehidupan programmer. Budaya ini sampai diadaptasi dalam server web. Ketika ada pengunjung, server web akan membuka index.html yang biasanya adalah homepage web
